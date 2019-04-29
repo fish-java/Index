@@ -1,5 +1,9 @@
 # 项目索引
 
+为了您的阅读体验，请一定安装这个浏览器插件 https://github.com/ovity/octotree ！！！
+
+有了它之后，在GitHub上阅读代码和文档是真的舒服！！！！
+
 ## Java
 
 ### 数据库
